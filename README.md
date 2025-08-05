@@ -97,9 +97,7 @@ Modern and responsive personal portfolio using HTML, CSS, JS — showcases your 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VelchuriMahesh&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+
 
 ---
 
