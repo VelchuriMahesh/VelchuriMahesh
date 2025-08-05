@@ -15,8 +15,14 @@
 
 ## 💼 About Me
 
-🎓 I'm an undergraduate at **SR Gudlavalleru Engineering College**, specializing in **Artificial Intelligence & Data Science** (2022–2026).  
+## 💼 About Me
+
+🎓 I'm an undergraduate at **SR Gudlavalleru Engineering College**, affiliated with JNTUK, Andhra Pradesh — a reputed institute known for excellence in engineering and innovation. I'm currently pursuing a degree in **Artificial Intelligence & Data Science** (2022–2026).  
+
 🛠️ I'm passionate about building scalable, full-stack web applications from backend to frontend, with experience in **Java Spring Boot**, **MERN stack**, and **AI-based projects**.
+
+🏫 My academic journey at SRGEC has helped me blend core computer science principles with real-world problem solving through hands-on learning, internships, and competitive tech events.
+
 
 ---
 
@@ -83,7 +89,7 @@ Modern and responsive personal portfolio using HTML, CSS, JS — showcases your 
 - 🥇 Won 1st Prize in **Pixel Play (PARICHAI 2024)** for AI-based photo editing.
 - 🥈 Led a team in **IT Branch Hackathon**, built [Chitti](https://chitti-zeta.vercel.app/), placed 2nd among 50+ teams.
 - 🖼️ Built and published projects on [mahesh-dev-portfolio.netlify.app](https://mahesh-dev-portfolio.netlify.app/).
-- 📊 Attended 4-day workshop on "Web Scraping to AI" (Jan 2025).
+- 📊 Attended a 4-day workshop on "Web Scraping to AI" in January 2025 and secured 1st place among 120+ students.
 - ❤️ Volunteered in blood donation camp, helped 500+ registrations.
 
 ---
