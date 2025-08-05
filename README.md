@@ -13,7 +13,7 @@
 
 ---
 
-## 💼 About Me
+
 
 ## 💼 About Me
 
@@ -100,9 +100,6 @@ Modern and responsive personal portfolio using HTML, CSS, JS — showcases your 
 📞 **Phone**: +91-9398727404  
 🔗 **LinkedIn**: [linkedin.com/in/velchuri-mahesh](https://www.linkedin.com/in/velchuri-mahesh/)  
 🌐 **Portfolio**: [mahesh-dev-portfolio.netlify.app](https://mahesh-dev-portfolio.netlify.app/)
-
----
-
 
 
 ---
