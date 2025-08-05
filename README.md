@@ -45,6 +45,7 @@
 ✅ Generative AI  
 ✅ Web Scraping with AI  
 ✅ AWS Cloud for Spring Boot
+
 ✅ Oracle Databases of Developers
 
 ---
