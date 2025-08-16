@@ -8,7 +8,7 @@
   <a href="mailto:velchurimahesh77@gmail.com">📧 Email</a> • 
   <a href="https://www.linkedin.com/in/velchuri-mahesh/">🔗 LinkedIn</a> • 
   <a href="https://github.com/VelchuriMahesh">💻 GitHub</a> • 
-  <a href="https://mahesh-dev-portfolio.netlify.app/">🌐 Portfolio</a>
+  <a href="https://velchurimahesh.github.io/Mahesh-portfolio/">🌐 Portfolio</a>
 </p>
 
 ---
