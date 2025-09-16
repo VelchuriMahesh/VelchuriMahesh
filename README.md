@@ -1,7 +1,4 @@
-<div align="center">
-  <a href="https://github.com/VelchuriMahesh">
-  </a>
-</div>
+
  
 <!-- 
 Banner Image:
