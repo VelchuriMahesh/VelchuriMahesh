@@ -1,6 +1,6 @@
 <div align="center">
-  
-    <img src=""C:\Users\velch\Downloads\IMG-20250808-WA0004.jpg"" alt="velchurimahesh" />
+  <a href="https://github.com/VelchuriMahesh">
+    <img src="https://komarev.com/ghpvc/?username=VelchuriMahesh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="velchurimahesh" />
   </a>
 </div>
 
