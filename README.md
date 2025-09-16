@@ -6,9 +6,7 @@ Create a banner (1280x400px is a good size) using a tool like Canva (canva.com) 
 Include your name, title, and maybe some key tech icons. Upload it to a new public repo (e.g., "github-assets") and get the URL.
 Replace the placeholder URL below with your banner's URL.
 -->
-<p align="center">
-  <img src="https://drive.google.com/file/d/1p9reTWFF99_eKQIYdPRoHymoM63LI-PN/view?usp=sharing" alt="Velchuri Mahesh" width="100%"/>
-</p>
+
 
 <div align="center">
 
