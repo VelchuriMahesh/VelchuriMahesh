@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/VelchuriMahesh/github-assets">
-    <img src="https://komarev.com/ghpvc/?username=VelchuriMahesh&label=Profile%20Views&color=0e75b6&style=flat-squar" alt="velchurimahesh" />
+    <img src="https://github.com/VelchuriMahesh/github-assets" alt="velchurimahesh" />
   </a>
 </div>
-
+ 
 <!-- 
 Banner Image:
 Create a banner (1280x400px is a good size) using a tool like Canva (canva.com) or Figma (figma.com).
