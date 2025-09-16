@@ -85,28 +85,7 @@ I'm a passionate and results-driven **AI & Data Science** undergraduate from **S
 
 ---
 
-### 📊 My GitHub Stats & Activity
 
-<p align="center">
-  <a href="https://github.com/VelchuriMahesh">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VelchuriMahesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="VelchuriMahesh's GitHub stats" />
-  </a>
-  <a href="https://github.com/VelchuriMahesh">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelchuriMahesh&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="VelchuriMahesh's top languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/VelchuriMahesh">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VelchuriMahesh&theme=tokyonight&hide_border=true" alt="VelchuriMahesh's contribution streak" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/VelchuriMahesh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VelchuriMahesh&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Contribution Graph" />
-  </a>
-</p>
-
----
 
 ### 🚀 Spotlight Projects
 
