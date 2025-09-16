@@ -11,7 +11,7 @@ Include your name, title, and maybe some key tech icons. Upload it to a new publ
 Replace the placeholder URL below with your banner's URL.
 -->
 <p align="center">
-  <img src="YOUR_BANNER_URL_HERE" alt="Velchuri Mahesh Banner" width="100%"/>
+  <img src="https://drive.google.com/file/d/1p9reTWFF99_eKQIYdPRoHymoM63LI-PN/view?usp=sharing" alt="Velchuri Mahesh" width="100%"/>
 </p>
 
 <div align="center">
