@@ -40,7 +40,7 @@
 <!-- Header Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line.svg" width="100%">
 
-### <img src="https://media.giphy.com/media/u2pmWW9R6CdA88DnkP/giphy.gif" width="40px">&nbsp;**About Me**
+### <img src="https://giphy.com/embed/u2pmWW9R6CdA88DnkP" width="40px">&nbsp;**About Me**
 
 I'm a passionate and results-driven **AI & Data Science** undergraduate with a strong foundation in architecting and developing robust full-stack applications. My expertise spans both **Java Spring Boot** and the **MERN stack**, allowing me to build scalable and efficient solutions. I am deeply fascinated by the intersection of software engineering and artificial intelligence, constantly seeking to build intelligent systems that solve real-world challenges.
 
