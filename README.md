@@ -98,39 +98,91 @@
 <!-- This content will be automatically updated by a GitHub Action -->
 <!--END_SECTION:activity-->
 <!-- Section Divider -->
-<img src="https://media.giphy.com/media/pGetb5hJplb2o65s27/giphy.gif" width="40px"> Spotlight Projects
-Here are some projects I'm proud to have built.
+### <img src="https://media.giphy.com/media/lihA2i2hT3i1g2I2tJ/giphy.gif" width="40px">&nbsp;**Spotlight Projects**
+
+<!-- Featured Project: PharmaGo -->
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/VelchuriMahesh/PharmaGo">
+        <!-- INSTRUCTION: Create a wide GIF (e.g., 800x400px) for your featured project and add it to your assets folder -->
+        <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-pharma-go-featured.gif" alt="PharmaGo Demo" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">🛒 PharmaGo - Online Medical Store (Featured)</h3>
+      <p align="center">
+        A comprehensive e-commerce platform for an online medical store, built with Java and Spring Boot. Features secure user authentication with Spring Security, product management, and a complete shopping cart system.
+      </p>
+      <p align="center">
+        <b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/VelchuriMahesh/PharmaGo" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br>
+
 <table width="100%" cellspacing="0" cellpadding="10">
+  <!-- Project 1: AI PowerPoint Generator -->
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI PowerPoint Generator</h3>
       <p>A Flask web app using GPT-3.5 and Pexels APIs to auto-generate visually rich PowerPoint presentations from a text prompt.</p>
+      <p><b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+      </p>
       <p><a href="https://github.com/VelchuriMahesh/AI-PowerPoint-Generator" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/VelchuriMahesh/AI-PowerPoint-Generator"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-ppt-generator.gif" alt="AI PowerPoint Generator Demo"></a>
     </td>
   </tr>
+  <!-- Project 2: Bank Management System -->
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/VelchuriMahesh/springboot-bank-management-app"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-bank-system.gif" alt="Bank Management System Demo"></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏦 Bank Management System</h3>
-      <p>A secure, full-fledged banking system architected with Spring Boot and Spring Security, featuring role-based access, transactions, and history management.</p>
+      <p>A secure, full-fledged banking system architected with Spring Boot, featuring role-based access, transactions, and history management.</p>
+       <p><b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      </p>
       <p><a href="https://github.com/VelchuriMahesh/springboot-bank-management-app" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
     </td>
   </tr>
+  <!-- Project 3: ShopEZ – MERN E-commerce -->
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 ShopEZ – MERN E-commerce</h3>
-      <p>A modern e-commerce platform built with the MERN stack, supporting over 50+ product listings, cart management, user authentication, and reviews.</p>
+      <p>A modern e-commerce platform built with the MERN stack, supporting product listings, cart management, user authentication, and reviews.</p>
+      <p><b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      </p>
       <p><a href="https://github.com/VelchuriMahesh/client" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/VelchuriMahesh/client"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-shopez.gif" alt="ShopEZ Demo"></a>
     </td>
   </tr>
+  <!-- Project 4: Prayer Recommendation Engine -->
     <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/VelchuriMahesh/prayer-recommendation-engine"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-prayer-engine.gif" alt="Prayer Recommendation Engine Demo"></a>
@@ -138,6 +190,11 @@ Here are some projects I'm proud to have built.
     <td width="50%" valign="top">
       <h3>🙏 Prayer Recommendation Engine</h3>
       <p>An emotion-based prayer recommender using NLP to analyze user feelings and suggest relevant Bible verses. Built with Flask and Scikit-learn.</p>
+      <p><b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+      </p>
       <p><a href="https://github.com/VelchuriMahesh/prayer-recommendation-engine" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
     </td>
   </tr>
