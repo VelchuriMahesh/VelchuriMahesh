@@ -40,7 +40,7 @@
 <!-- Header Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line.svg" width="100%">
 
-### <img src="https://giphy.com/embed/u2pmWW9R6CdA88DnkP" width="40px">&nbsp;**About Me**
+### <img src="https://media.giphy.com/media/u2pmWW9R6CdA88DnkP/giphy.gif" width="40px">&nbsp;**About Me**
 
 I'm a passionate and results-driven **AI & Data Science** undergraduate with a strong foundation in architecting and developing robust full-stack applications. My expertise spans both **Java Spring Boot** and the **MERN stack**, allowing me to build scalable and efficient solutions. I am deeply fascinated by the intersection of software engineering and artificial intelligence, constantly seeking to build intelligent systems that solve real-world challenges.
 
@@ -50,26 +50,18 @@ I'm a passionate and results-driven **AI & Data Science** undergraduate with a s
 - 🚀 Committed to continuous growth through hackathons, internships, and open-source contributions.
 
 <!-- Section Divider -->
-
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
 ### <img src="https://media.giphy.com/media/kH1DBkPNy2YLLyl4OE/giphy.gif" width="40px">&nbsp;**My Tech Arsenal**
 
-<table width="100%">
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" height="50" /><br>Java</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="50" /><br>Python</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="50" /><br>JavaScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="50" /><br>React</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" height="50" /><br>Node.js</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" height="50" /><br>Spring Boot</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" height="50" /><br>MySQL</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" height="50" /><br>MongoDB</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" height="50" /><br>Git & GitHub</td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,flask,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,postman,vscode&perline=8" />
+  </a>
+</p>
 
 <!-- Section Divider -->
-
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
 ### <img src="https://media.giphy.com/media/IdJU6Uo6gmdP6hQ5K8/giphy.gif" width="40px">&nbsp;**My GitHub Stats & Activity**
 
@@ -95,7 +87,7 @@ I'm a passionate and results-driven **AI & Data Science** undergraduate with a s
 <!--END_SECTION:activity-->
 
 <!-- Section Divider -->
-
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
 ### <img src="https://media.giphy.com/media/pGetb5hJplb2o65s27/giphy.gif" width="40px">&nbsp;**Spotlight Projects**
 _Here are some projects I'm proud to have built._
@@ -144,7 +136,7 @@ _Here are some projects I'm proud to have built._
 </table>
 
 <!-- Section Divider -->
-
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
 ### 🐍 **GitHub Contribution Snake**
 _Watch my contributions slither!_
@@ -153,7 +145,7 @@ _Watch my contributions slither!_
 </div>
 
 <!-- Section Divider -->
-
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
 ### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40px">&nbsp;**My Journey & Milestones**
 <details>
@@ -193,7 +185,7 @@ _Watch my contributions slither!_
 </details>
 
 <!-- Section Divider -->
-
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
 ### <img src="https://media.giphy.com/media/YTbAWhAQi12mZ0L7iA/giphy.gif" width="40px">&nbsp;**Education**
 - **B.Tech, Artificial Intelligence & Data Science** | _SR Gudlavalleru Engineering College_ (2022-2026)
@@ -202,7 +194,7 @@ _Watch my contributions slither!_
 - **SSC** | _Bhashyam Public School_ (2020)
 
 <!-- Section Divider -->
-
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
 ### <img src="https://media.giphy.com/media/sI4jSKNopdQcM0D_qj/giphy.gif" width="40px">&nbsp;**Let's Connect!**
 > "Fueled by curiosity, driven by code. I build tech that solves real-world problems with clarity and impact.”
