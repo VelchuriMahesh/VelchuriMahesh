@@ -121,54 +121,120 @@ Here are some projects I'm proud to have built.
   </tr>
 </table>
 <!-- Section Divider -->
-🐍 GitHub Contribution Snake
-Watch my contributions slither!
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/output/github-contribution-grid-snake.svg" alt="Velchuri Mahesh's Contribution Snake"/>
-</div>
+
 <!-- Section Divider -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40px"> My Journey & Milestones
-<details>
-  <summary><strong>💼 Professional Experience & Internships (Click to Expand)</strong></summary><br>
-  <ul>
-    <li><b>Full Stack Developer (MERN) Intern</b> | <i>SmartBridge & APSCHE</i><br>➤ Engineered and deployed 2 full-stack MERN web applications, delivering features to over <strong>200+ daily active users</strong>.</li>
-    <li><b>Web Development Intern</b> | <i>AdverK Technologies</i><br>➤ Implemented 2 dynamic frontend modules using REST APIs and Git, enhancing feature stability.</li>
-    <li><b>Data Science Trainee</b> | <i>AdverK Technologies</i><br>➤ Designed and trained 2 machine learning models with Pandas, NumPy, & Scikit-learn, achieving over <strong>80% accuracy</strong>.</li>
-    <li><b>Generative AI Intern</b> | <i>SmartBridge & APSCHE</i><br>➤ Built AI content generation tools using prompt engineering, GPT models, and cloud deployment.</li>
-  </ul>
-</details>
-<details>
-  <summary><strong>🏆 Awards, Hackathons & Leadership (Click to Expand)</strong></summary><br>
-  <ul>
-    <li>🥇 <b>1st Place Winner</b> | Web Scraping to AI Workshop at SRGEC (Jan 2025).</li>
-    <li>🥈 <b>2nd Place Winner</b> | IT Branch Hackathon for developing <a href="https://chitti-zeta.vercel.app/">Chitti</a>, an intelligent web companion.</li>
-    <li>🥉 <b>3rd Place Winner</b> | Pixel Play (PARICHAI 2024) for AI-based creative photo editing.</li>
-    <li><strong>Team Lead</strong> | Led development of the SRGEC Chatbot & Chitti Smart Assistant.</li>
-    <li><strong>Volunteer</strong> | Assisted in onboarding <strong>500+ donors</strong> at a college blood donation camp.</li>
-    <li><strong>Tabla Performer</strong> | Received awards for exceptional Tabla performances at college festivals.</li>
-  </ul>
-</details>
-<details>
-  <summary><strong>📜 Certifications & Continuous Learning (Click to Expand)</strong></summary><br>
-  <ul>
-    <li>AWS Cloud on Java Spring Boot</li>
-    <li>MERN Stack Development</li>
-    <li>Generative AI (SmartBridge & APSCHE)</li>
-    <li>Data Science (AdverK Technologies)</li>
-    <li>Oracle Databases</li>
-    <li>Infosys Certified Java Programmer</li>
-    <li>TATA Data Analytics</li>
-    <li>NPTEL - Introduction to IoT</li>
-    <li>Python (BIST Technologies)</li>
-    <li>Web Scraping with AI</li>
-  </ul>
-</details>
-<!-- Section Divider -->
-<img src="https://media.giphy.com/media/YTbAWhAQi12mZ0L7iA/giphy.gif" width="40px"> Education
-B.Tech, Artificial Intelligence & Data Science | SR Gudlavalleru Engineering College (2022-2026)
-Current CGPA: 7.83
-Intermediate, MPC | Sri Chaitanya Junior College (2022)
-SSC | Bhashyam Public School (2020)
+### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40px">&nbsp;**My Professional Journey & Milestones**
+
+<table width="100%">
+  <!-- Professional Experience Section -->
+  <tr>
+    <td width="50px" valign="top" align="center">
+      <img src="https://media.giphy.com/media/7SIdExkJo0a7m/giphy.gif" width="40" alt="Work Icon"/>
+    </td>
+    <td>
+      <h3>Professional Experience & Internships</h3>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <img src="https://img.shields.io/badge/Role-Full_Stack_Developer_(MERN)_Intern-blue?style=for-the-badge" alt="Role Badge"/>
+      <br><em><b>SmartBridge & APSCHE</b></em>
+      <ul>
+        <li>Engineered and deployed 2 full-stack MERN web applications, delivering features to over <strong>200+ daily active users</strong>.</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Role-Web_Development_Intern-blue?style=for-the-badge" alt="Role Badge"/>
+      <br><em><b>AdverK Technologies</b></em>
+      <ul>
+        <li>Implemented 2 dynamic frontend modules using REST APIs and Git, enhancing feature stability and user experience.</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Role-Data_Science_Trainee-blue?style=for-the-badge" alt="Role Badge"/>
+      <br><em><b>AdverK Technologies</b></em>
+      <ul>
+        <li>Designed and trained 2 ML models using Pandas, NumPy, & Scikit-learn, achieving over <strong>80% accuracy</strong>.</li>
+      </ul>
+       <img src="https://img.shields.io/badge/Role-Generative_AI_Intern-blue?style=for-the-badge" alt="Role Badge"/>
+      <br><em><b>SmartBridge & APSCHE</b></em>
+      <ul>
+        <li>Built AI-powered content generation tools using prompt engineering, GPT models, and cloud deployment.</li>
+      </ul>
+    </td>
+  </tr>
+  
+  <!-- Awards and Hackathons Section -->
+  <tr>
+    <td width="50px" valign="top" align="center">
+      <img src="https://media.giphy.com/media/iFqLTjlvndks0/giphy.gif" width="40" alt="Trophy Icon"/>
+    </td>
+    <td>
+      <h3>Awards, Hackathons & Leadership</h3>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <ul>
+        <li>🥇 <b>1st Place Winner</b> | Web Scraping to AI Workshop at SRGEC (Jan 2025).</li>
+        <li>🥈 <b>2nd Place Winner</b> | IT Branch Hackathon for developing <a href="https://chitti-zeta.vercel.app/">Chitti</a>, an intelligent web companion.</li>
+        <li>🥉 <b>3rd Place Winner</b> | Pixel Play (PARICHAI 2024) for AI-based creative photo editing.</li>
+        <li><strong>Team Lead</strong> | Led development of the SRGEC Chatbot & Chitti Smart Assistant.</li>
+        <li><strong>Volunteer</strong> | Assisted in onboarding <strong>500+ donors</strong> at a college blood donation camp.</li>
+        <li><strong>Tabla Performer</strong> | Received awards for exceptional Tabla performances at college festivals.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Education Section -->
+  <tr>
+    <td width="50px" valign="top" align="center">
+      <img src="https://media.giphy.com/media/YTbAWhAQi12mZ0L7iA/giphy.gif" width="40" alt="Education Icon"/>
+    </td>
+    <td>
+      <h3>Education</h3>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <img src="https://img.shields.io/badge/2022-2026-lightgrey?style=for-the-badge" alt="Date Badge"/>
+      <br><b>B.Tech, Artificial Intelligence & Data Science</b>
+      <br><em>SR Gudlavalleru Engineering College (CGPA: 7.83)</em>
+      <br><br>
+      <img src="https://img.shields.io/badge/2020-2022-lightgrey?style=for-the-badge" alt="Date Badge"/>
+      <br><b>Intermediate, MPC</b>
+      <br><em>Sri Chaitanya Junior College</em>
+      <br><br>
+       <img src="https://img.shields.io/badge/2020-lightgrey?style=for-the-badge" alt="Date Badge"/>
+      <br><b>SSC</b>
+      <br><em>Bhashyam Public School</em>
+    </td>
+  </tr>
+
+  <!-- Certifications Section -->
+  <tr>
+    <td width="50px" valign="top" align="center">
+      <img src="https://media.giphy.com/media/ko7p207kS4b6g/giphy.gif" width="40" alt="Certificate Icon"/>
+    </td>
+    <td>
+      <h3>Certifications & Continuous Learning</h3>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <p>
+        <img src="https://img.shields.io/badge/-AWS_Cloud_on_Java_Spring_Boot-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS"/>
+        <img src="https://img.shields.io/badge/-MERN_Stack-000000?style=for-the-badge&logo=mongodb" alt="MERN"/>
+        <img src="https://img.shields.io/badge/-Generative_AI-412991?style=for-the-badge&logo=openai" alt="GenAI"/>
+        <img src="https://img.shields.io/badge/-Data_Science-3776AB?style=for-the-badge&logo=python" alt="Data Science"/>
+        <img src="https://img.shields.io/badge/-Oracle_Databases-F80000?style=for-the-badge&logo=oracle" alt="Oracle"/>
+        <img src="https://img.shields.io/badge/-Infosys_Java_Programmer-0077B5?style=for-the-badge&logo=infosys" alt="Infosys"/>
+        <img src="https://img.shields.io/badge/-TATA_Data_Analytics-005493?style=for-the-badge&logo=tata" alt="Tata"/>
+        <img src="https://img.shields.io/badge/-NPTEL_IoT-orange?style=for-the-badge" alt="NPTEL"/>
+      </p>
+    </td>
+  </tr>
+</table>
 <!-- Section Divider -->
 <img src="https://media.giphy.com/media/sI4jSKNopdQcM0D_qj/giphy.gif" width="40px"> Let's Connect!
 "Fueled by curiosity, driven by code. I build tech that solves real-world problems with clarity and impact.”
