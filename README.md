@@ -1,14 +1,13 @@
 <!-- 
 Banner Image:
-Create a banner (1280x400px is a good size) using a tool like Canva (canva.com) or Figma (figma.com).
-Include your name, title, and maybe some key tech icons. Upload it to a new public repo (e.g., "github-assets") and get the URL.
-Replace the placeholder URL below with your banner's URL.
+A custom banner (1280x400px) is highly recommended. 
+Upload it to a public repo and replace the placeholder URL below.
 -->
 <!-- <p align="center"><img src="YOUR_BANNER_URL_HERE" alt="Velchuri Mahesh Banner"></p> -->
 
 <div align="center">
 
-# Hi there, I'm Velchuri Mahesh 👋
+# Hi there, I'm Velchuri Mahesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### A Full Stack Developer | AI & Data Science Enthusiast | Lifelong Learner
 
@@ -31,16 +30,18 @@ Replace the placeholder URL below with your banner's URL.
 
 <p align="center">
   <a href="https://github.com/VelchuriMahesh">
-    <img src="https://github-readme-stats.vercel.app/api?username=VelchuriMahesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Velchuri Mahesh's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=VelchuriMahesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Velchuri Mahesh's GitHub Stats" />
   </a>
   <a href="https://github.com/VelchuriMahesh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelchuriMahesh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelchuriMahesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
 </p>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
+</div>
 
-### 👨‍💻 About Me
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
 I'm a passionate and results-driven **AI & Data Science** undergraduate with a strong foundation in architecting and developing robust full-stack applications. My expertise spans both **Java Spring Boot** and the **MERN stack**, allowing me to build scalable and efficient solutions. I am deeply fascinated by the intersection of software engineering and artificial intelligence, constantly seeking to build intelligent systems that solve real-world challenges.
 
@@ -49,82 +50,53 @@ I'm a passionate and results-driven **AI & Data Science** undergraduate with a s
 - 🧠 Actively exploring **NLP**, **Generative AI**, and cloud deployment strategies.
 - 🚀 Committed to continuous growth through hackathons, internships, and open-source contributions.
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
+</div>
 
 ### 🛠️ My Tech Stack & Tools
 
-<table align="center" width="100%">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,mongodb,spring,nodejs,express,react,flask,thymeleaf,git,github,vscode,postman,netlify,aws,docker&perline=10" />
+  </a>
+</p>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
+</div>
+
+### 🚀 My Projects
+
+<table>
   <tr>
-    <td align="center" width="180">
-      <strong>Languages</strong><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-      <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-    </td>
-    <td align="center" width="180">
-      <strong>Backend</strong><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-    </td>
-    <td align="center" width="180">
-      <strong>Frontend</strong><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"></a>
-    </td>
-    <td align="center" width="180">
-      <strong>Databases</strong><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    </td>
-    <td align="center" width="180">
-      <strong>DevOps & Tools</strong><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/STS4-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Spotlight Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 <a href="https://github.com/VelchuriMahesh/AI-PowerPoint-Generator">AI PowerPoint Generator</a></h3>
-      <p>A Flask web app that leverages the GPT-3.5 and Pexels APIs to automatically generate complete, visually rich PowerPoint presentations from a simple text prompt.</p>
+    <td width="100%">
+      <h3>🔹 AI PowerPoint Generator <a href="https://github.com/VelchuriMahesh/AI-PowerPoint-Generator">(GitHub)</a></h3>
+      <p>Developed PowerPoint Generator, a Flask web app using <strong>GPT-3.5</strong> to automatically create AI-driven presentations. Integrated OpenAI and Pexels APIs for dynamic content and visuals.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
         <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
-        <img src="https://img.shields.io/badge/Generative_AI-A9A9A9?style=for-the-badge" alt="GenAI"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 <a href="https://github.com/VelchuriMahesh/springboot-bank-management-app">Bank Management System</a></h3>
-      <p>A secure, full-fledged banking system architected with Spring Boot and Spring Security, featuring role-based access, transactions, and history.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
         <img src="https://img.shields.io/badge/REST_APIs-D14836?style=for-the-badge" alt="REST APIs"/>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 <a href="https://github.com/VelchuriMahesh/client">ShopEZ – MERN E-commerce</a></h3>
-      <p>A modern e-commerce platform built with the MERN stack, supporting over 50+ product listings, cart management, user authentication, and reviews.</p>
+    <td width="100%">
+      <h3>🔹 Bank Management Application <a href="https://github.com/VelchuriMahesh/springboot-bank-management-app">(GitHub)</a></h3>
+      <p>Architected a secure banking system using <strong>Spring Boot, Spring Security, Thymeleaf, and MySQL</strong>. It supports registration, login, deposits, withdrawals, transfers, and transaction history with role-based access control.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>🔹 ShopEZ – E-commerce Platform <a href="https://github.com/VelchuriMahesh/client">(GitHub)</a></h3>
+      <p>Produced a full stack e-commerce application using the <strong>MERN stack</strong>, supporting 50+ product listings and enabling checkout, cart management, and user reviews.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -132,9 +104,11 @@ I'm a passionate and results-driven **AI & Data Science** undergraduate with a s
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔹 <a href="https://github.com/VelchuriMahesh/prayer-recommendation-engine">Prayer Recommendation Engine</a></h3>
-      <p>An emotion-based prayer recommender using NLP to analyze user feelings and suggest relevant Bible verses. Built with Flask and Scikit-learn.</p>
+  </tr>
+    <tr>
+    <td width="100%">
+      <h3>🔹 Prayer Recommendation Engine <a href="https://github.com/VelchuriMahesh/prayer-recommendation-engine">(GitHub)</a></h3>
+      <p>Constructed a Flask-based web app using <strong>Natural Language Processing (NLP)</strong> to analyze user emotions and recommend inspirational or spiritual verses, applying Python, HTML, and JavaScript.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -143,64 +117,82 @@ I'm a passionate and results-driven **AI & Data Science** undergraduate with a s
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="100%">
+      <h3>🔹 Personal Blog <a href="YOUR_GITHUB_LINK_HERE">(GitHub)</a></h3>
+      <p>Crafted a full-stack, responsive personal blog using <strong>Flask, HTML, CSS, JavaScript, and SQL</strong>, enabling dynamic blog posts with full CRUD functionality and a modern user interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
+</div>
 
-### 🚀 My Journey
+### 💼 Professional Experience & Internships
 
-<details>
-  <summary><strong>Professional Experience & Internships</strong></summary>
-  <ul>
-    <li><b>Full Stack Developer (MERN) Intern</b> | <i>SmartBridge & APSCHE</i><br>
-        ➤ Engineered and deployed 2 full-stack MERN web applications, delivering key features to over <strong>200+ daily active users</strong> within a 2-month internship.</li>
-    <li><b>Web Development Intern</b> | <i>AdverK Technologies</i><br>
-        ➤ Implemented and integrated 2 dynamic frontend modules using REST APIs and Git, enhancing feature stability and user experience.</li>
-    <li><b>Data Science Trainee</b> | <i>AdverK Technologies</i><br>
-        ➤ Designed and trained 2 machine learning models using Pandas, NumPy, and Scikit-learn, achieving over <strong>80% accuracy</strong> on validation data.</li>
-    <li><b>Generative AI Intern</b> | <i>SmartBridge & APSCHE</i><br>
-        ➤ Built AI-powered content generation tools using prompt engineering, GPT models, and cloud deployment.</li>
-  </ul>
-</details>
+-   **Full Stack Developer (MERN) Intern** | _SmartBridge & APSCHE_ (May 2025 – July 2025)
+    -   Engineered and deployed 2 full-stack MERN web applications, delivering key features to over **200+ daily active users**.
 
-<details>
-  <summary><strong>🏆 Awards, Hackathons & Leadership</strong></summary>
-  <ul>
-    <li>🥇 <b>1st Place Winner</b> | Web Scraping to AI Workshop at SRGEC (Jan 2025).</li>
-    <li>🥈 <b>2nd Place Winner</b> | IT Branch Hackathon for developing <a href="https://chitti-zeta.vercel.app/">Chitti</a>, an intelligent web companion.</li>
-    <li>🥉 <b>3rd Place Winner</b> | Pixel Play (PARICHAI 2024) for AI-based creative photo editing.</li>
-    <li><strong>Team Lead</strong> | Led the development of the SRGEC Chatbot & Chitti Smart Assistant during the hackathon.</li>
-    <li><strong>Volunteer</strong> | Assisted in the registration and onboarding of <strong>500+ donors</strong> at a college blood donation camp.</li>
-    <li><strong>Tabla Performer</strong> | Received awards for exceptional Tabla performances at college cultural festivals.</li>
-  </ul>
-</details>
+-   **Web Development Intern** | _AdverK Technologies_ (Dec 2024 – Jan 2025)
+    -   Implemented and integrated 2 dynamic frontend modules using REST APIs and Git, enhancing feature stability and user experience.
 
-<details>
-  <summary><strong>📜 Certifications & Continuous Learning</strong></summary>
-  <ul>
-    <li>AWS Cloud on Java Spring Boot</li>
-    <li>MERN Stack Development</li>
-    <li>Generative AI (SmartBridge & APSCHE)</li>
-    <li>Data Science (AdverK Technologies)</li>
-    <li>Oracle Databases</li>
-    <li>Infosys Certified Java Programmer</li>
-    <li>TATA Data Analytics</li>
-    <li>NPTEL - Introduction to IoT</li>
-    <li>Python (BIST Technologies)</li>
-    <li>Web Scraping with AI</li>
-  </ul>
-details>
+-   **Data Science Trainee** | _AdverK Technologies_ (Aug 2024 – Oct 2024)
+    -   Designed and trained 2 machine learning models using Pandas, NumPy, and Scikit-learn, achieving over **80% accuracy**.
 
----
+-   **Generative AI Intern** | _SmartBridge & APSCHE_
+    -   Built AI-powered content generation tools using prompt engineering, GPT models, and cloud deployment.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
+</div>
+
+### 🏆 Awards, Hackathons & Leadership
+
+-   🥇 **1st Place Winner** | Web Scraping to AI Workshop at SRGEC (Jan 2025).
+-   🥈 **2nd Place Winner** | IT Branch Hackathon for developing [Chitti](https://chitti-zeta.vercel.app/), an intelligent web companion.
+-   🥉 **3rd Place Winner** | Pixel Play (PARICHAI 2024) for AI-based creative photo editing.
+-   **Team Lead** | Led the development of the SRGEC Chatbot & Chitti Smart Assistant during the hackathon.
+-   **Volunteer** | Assisted in the registration and onboarding of **500+ donors** at a college blood donation camp.
+-   **Tabla Performer** | Received awards for exceptional Tabla performances at college cultural festivals.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
+</div>
+
+### 📜 Certifications & Continuous Learning
+
+-   AWS Cloud on Java Spring Boot
+-   MERN Stack Development
+-   Generative AI (SmartBridge & APSCHE)
+-   Data Science (AdverK Technologies)
+-   Oracle Databases
+-   Infosys Certified Java Programmer
+-   TATA Data Analytics
+-   NPTEL - Introduction to IoT
+-   Python (BIST Technologies)
+-   Web Scraping with AI
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
+</div>
 
 ### 🎓 Education
 
-- **B.Tech, Artificial Intelligence & Data Science** | _SR Gudlavalleru Engineering College_ (2022-2026)
-  - _Current CGPA: 7.83_
-- **Intermediate, MPC** | _Sri Chaitanya Junior College_ (2022)
-- **SSC** | _Bhashyam Public School_ (2020)
+-   **B.Tech, Artificial Intelligence & Data Science** | _SR Gudlavalleru Engineering College_ (2022-2026)
+    -   _Current CGPA: 7.83_
+-   **Intermediate, MPC** | _Sri Chaitanya Junior College_ (2022)
+-   **SSC** | _Bhashyam Public School_ (2020)
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
+</div>
 
 ### 📫 Let's Connect!
 
