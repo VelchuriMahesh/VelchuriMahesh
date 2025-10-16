@@ -100,68 +100,87 @@
 <!-- Section Divider -->
 ### <img src="https://media.giphy.com/media/lihA2i2hT3i1g2I2tJ/giphy.gif" width="40px">&nbsp;**Spotlight Projects**
 
+
+<div class="projects-section">
+
+### <img src="https://media.giphy.com/media/lihA2i2hT3i1g2I2tJ/giphy.gif" width="40px">&nbsp;**Spotlight Projects**
+
 <!-- Featured Project: PharmaGo -->
 <style>
-/* --- GLOBAL ANIMATIONS --- */
+/* --- GLOBAL KEYFRAMES --- */
 @keyframes fadeInUp {
-  from { opacity: 0; transform: translateY(30px); }
+  from { opacity: 0; transform: translateY(40px); }
   to { opacity: 1; transform: translateY(0); }
 }
-@keyframes fadeInLeft {
-  from { opacity: 0; transform: translateX(-40px); }
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-60px); }
   to { opacity: 1; transform: translateX(0); }
 }
-@keyframes fadeInRight {
-  from { opacity: 0; transform: translateX(40px); }
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(60px); }
   to { opacity: 1; transform: translateX(0); }
-}
-@keyframes glow {
-  0%, 100% { text-shadow: 0 0 8px #00e1ff, 0 0 20px #0077ff; }
-  50% { text-shadow: 0 0 20px #00ffcc, 0 0 40px #00bfff; }
 }
 @keyframes zoomIn {
-  from { transform: scale(0.95); opacity: 0; }
+  from { transform: scale(0.8); opacity: 0; }
   to { transform: scale(1); opacity: 1; }
 }
-
-/* --- STYLING --- */
-.projects-section {
-  animation: fadeInUp 1s ease-in-out;
+@keyframes rotateIn {
+  from { opacity: 0; transform: rotate(-10deg) scale(0.9); }
+  to { opacity: 1; transform: rotate(0) scale(1); }
 }
-.projects-section h3 {
-  font-size: 1.8rem;
-  animation: glow 3s infinite ease-in-out;
-  text-align: center;
-  color: #00c8ff;
+@keyframes pulseGlow {
+  0%, 100% { box-shadow: 0 0 10px rgba(0, 255, 255, 0.4); }
+  50% { box-shadow: 0 0 30px rgba(0, 255, 255, 0.8); }
+}
+@keyframes bounceIn {
+  0% { transform: scale(0.8); opacity: 0; }
+  60% { transform: scale(1.1); opacity: 1; }
+  100% { transform: scale(1); }
 }
 
-/* --- IMAGE ANIMATIONS --- */
+/* --- PROJECT IMAGE EFFECTS --- */
 .project-img img {
-  transition: all 0.4s ease-in-out;
-  border-radius: 12px;
-  box-shadow: 0 0 12px rgba(0, 255, 255, 0.2);
+  transition: all 0.4s ease;
+  border-radius: 10px;
+  width: 100%;
 }
 .project-img img:hover {
   transform: scale(1.05);
-  box-shadow: 0 0 25px rgba(0, 255, 255, 0.7);
+  box-shadow: 0 0 25px rgba(0, 255, 255, 0.5);
 }
 
-/* --- CARD EFFECTS --- */
+/* --- PROJECT CARD BASE STYLE --- */
 .project-card {
-  transition: all 0.5s ease-in-out;
-  animation: fadeInUp 1s ease-in-out;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
 }
 .project-card:hover {
-  transform: translateY(-8px) scale(1.02);
-  box-shadow: 0 8px 25px rgba(0, 255, 255, 0.4);
+  transform: translateY(-6px);
+  box-shadow: 0 10px 30px rgba(0, 255, 255, 0.4);
 }
 
-/* --- TABLE CELL ENTRIES --- */
-.project-left {
-  animation: fadeInLeft 1s ease-in-out;
+/* --- UNIQUE ANIMATIONS FOR EACH PROJECT --- */
+.project-pharmago {
+  animation: zoomIn 1s ease forwards;
 }
-.project-right {
-  animation: fadeInRight 1s ease-in-out;
+.project-ppt {
+  animation: slideInLeft 1s ease forwards;
+}
+.project-bank {
+  animation: slideInRight 1s ease forwards;
+}
+.project-shopez {
+  animation: fadeInUp 1s ease forwards;
+}
+.project-prayer {
+  animation: rotateIn 1s ease forwards;
+}
+
+/* --- HEADING EFFECT --- */
+.projects-title {
+  text-align: center;
+  color: #00d0ff;
+  font-size: 1.9rem;
+  animation: pulseGlow 3s infinite ease-in-out;
 }
 </style>
 
@@ -169,109 +188,109 @@
 
 ### <img src="https://media.giphy.com/media/lihA2i2hT3i1g2I2tJ/giphy.gif" width="40px">&nbsp;**Spotlight Projects**
 
-<!-- Featured Project: PharmaGo -->
-<table width="100%">
-  <tr class="project-card">
+<!-- PROJECT 1: PHARMAGO -->
+<table width="100%" class="project-card project-pharmago" cellpadding="10">
+  <tr>
     <td align="center" class="project-img">
       <a href="https://github.com/VelchuriMahesh/PharmaGo">
-        <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-pharma-go-featured.gif" alt="PharmaGo Demo" width="100%"/>
+        <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-pharma-go-featured.gif" alt="PharmaGo Demo"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <h3 align="center">🛒 PharmaGo - Online Medical Store (Featured)</h3>
+      <h3 align="center">🛒 PharmaGo - Online Medical Store</h3>
+      <p align="center">A comprehensive e-commerce platform for an online medical store, built with Java and Spring Boot. Features secure user authentication, product management, and a complete shopping cart system.</p>
       <p align="center">
-        A comprehensive e-commerce platform for an online medical store, built with Java and Spring Boot. Features secure user authentication with Spring Security, product management, and a complete shopping cart system.
-      </p>
-      <p align="center">
-        <b>Tech Stack:</b><br>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="https://github.com/VelchuriMahesh/PharmaGo" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
       </p>
     </td>
   </tr>
 </table>
 <br>
 
-<table width="100%" cellspacing="0" cellpadding="10">
-
-  <!-- Project 1: AI PowerPoint Generator -->
-  <tr class="project-card">
-    <td width="50%" valign="top" class="project-left">
+<!-- PROJECT 2: AI PPT GENERATOR -->
+<table width="100%" class="project-card project-ppt" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top">
       <h3>🤖 AI PowerPoint Generator</h3>
-      <p>A Flask web app using GPT-3.5 and Pexels APIs to auto-generate visually rich PowerPoint presentations from a text prompt.</p>
-      <p><b>Tech Stack:</b><br>
+      <p>A Flask web app using GPT-3.5 and Pexels APIs to auto-generate visually rich PowerPoint presentations from text prompts.</p>
+      <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
       </p>
-      <p><a href="https://github.com/VelchuriMahesh/AI-PowerPoint-Generator" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
     </td>
-    <td width="50%" valign="top" class="project-right project-img">
-      <a href="https://github.com/VelchuriMahesh/AI-PowerPoint-Generator"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-ppt-generator.gif" alt="AI PowerPoint Generator Demo"></a>
+    <td width="50%" class="project-img">
+      <a href="https://github.com/VelchuriMahesh/AI-PowerPoint-Generator">
+        <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-ppt-generator.gif" alt="AI PowerPoint Generator Demo"/>
+      </a>
     </td>
   </tr>
+</table>
+<br>
 
-  <!-- Project 2: Bank Management System -->
-  <tr class="project-card">
-    <td width="50%" valign="top" class="project-left project-img">
-      <a href="https://github.com/VelchuriMahesh/springboot-bank-management-app"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-bank-system.gif" alt="Bank Management System Demo"></a>
+<!-- PROJECT 3: BANK MANAGEMENT SYSTEM -->
+<table width="100%" class="project-card project-bank" cellpadding="10">
+  <tr>
+    <td width="50%" class="project-img">
+      <a href="https://github.com/VelchuriMahesh/springboot-bank-management-app">
+        <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-bank-system.gif" alt="Bank System Demo"/>
+      </a>
     </td>
-    <td width="50%" valign="top" class="project-right">
+    <td width="50%">
       <h3>🏦 Bank Management System</h3>
-      <p>A secure, full-fledged banking system architected with Spring Boot, featuring role-based access, transactions, and history management.</p>
-       <p><b>Tech Stack:</b><br>
+      <p>A secure, full-fledged banking system built with Spring Boot and MySQL, featuring role-based access and transaction history.</p>
+      <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
       </p>
-      <p><a href="https://github.com/VelchuriMahesh/springboot-bank-management-app" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
     </td>
   </tr>
+</table>
+<br>
 
-  <!-- Project 3: ShopEZ – MERN E-commerce -->
-  <tr class="project-card">
-    <td width="50%" valign="top" class="project-left">
-      <h3>🛒 ShopEZ – MERN E-commerce</h3>
-      <p>A modern e-commerce platform built with the MERN stack, supporting product listings, cart management, user authentication, and reviews.</p>
-      <p><b>Tech Stack:</b><br>
+<!-- PROJECT 4: SHOPEZ -->
+<table width="100%" class="project-card project-shopez" cellpadding="10">
+  <tr>
+    <td width="50%">
+      <h3>🛍️ ShopEZ – MERN E-commerce</h3>
+      <p>A full MERN stack e-commerce app supporting products, cart, authentication, and reviews.</p>
+      <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
       </p>
-      <p><a href="https://github.com/VelchuriMahesh/client" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
     </td>
-    <td width="50%" valign="top" class="project-right project-img">
-      <a href="https://github.com/VelchuriMahesh/client"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-shopez.gif" alt="ShopEZ Demo"></a>
+    <td width="50%" class="project-img">
+      <a href="https://github.com/VelchuriMahesh/client">
+        <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-shopez.gif" alt="ShopEZ Demo"/>
+      </a>
     </td>
   </tr>
+</table>
+<br>
 
-  <!-- Project 4: Prayer Recommendation Engine -->
-  <tr class="project-card">
-    <td width="50%" valign="top" class="project-left project-img">
-      <a href="https://github.com/VelchuriMahesh/prayer-recommendation-engine"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-prayer-engine.gif" alt="Prayer Recommendation Engine Demo"></a>
+<!-- PROJECT 5: PRAYER ENGINE -->
+<table width="100%" class="project-card project-prayer" cellpadding="10">
+  <tr>
+    <td width="50%" class="project-img">
+      <a href="https://github.com/VelchuriMahesh/prayer-recommendation-engine">
+        <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-prayer-engine.gif" alt="Prayer Engine Demo"/>
+      </a>
     </td>
-    <td width="50%" valign="top" class="project-right">
+    <td width="50%">
       <h3>🙏 Prayer Recommendation Engine</h3>
-      <p>An emotion-based prayer recommender using NLP to analyze user feelings and suggest relevant Bible verses. Built with Flask and Scikit-learn.</p>
-      <p><b>Tech Stack:</b><br>
+      <p>An emotion-based recommender that uses NLP to analyze user emotions and suggest spiritual content, built with Flask and Scikit-learn.</p>
+      <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
       </p>
-      <p><a href="https://github.com/VelchuriMahesh/prayer-recommendation-engine" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
     </td>
   </tr>
 </table>
 </div>
+
 
 
 <!-- Section Divider -->
