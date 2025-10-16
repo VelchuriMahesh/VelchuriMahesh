@@ -34,12 +34,34 @@
 </p>
 <!-- Header Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line.svg" width="100%">
-<img src="https://giphy.com/embed/u2pmWW9R6CdA88DnkP" width="40px"> About Me
-I'm a passionate and results-driven AI & Data Science undergraduate with a strong foundation in architecting and developing robust full-stack applications. My expertise spans both Java Spring Boot and the MERN stack, allowing me to build scalable and efficient solutions. I am deeply fascinated by the intersection of software engineering and artificial intelligence, constantly seeking to build intelligent systems that solve real-world challenges.
-🎓 Pursuing B.Tech in Artificial Intelligence & Data Science from SR Gudlavalleru Engineering College (2022–2026).
-💡 Building secure, scalable backend APIs and dynamic, responsive frontends.
-🧠 Actively exploring NLP, Generative AI, and cloud deployment strategies.
-🚀 Committed to continuous growth through hackathons, internships, and open-source contributions.
+
+<!-- About Me Section with Two-Column Layout -->
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3><img src="https://media.giphy.com/media/u2pmWW9R6CdA88DnkP/giphy.gif" width="40px">&nbsp;About Me</h3>
+      <p>
+        I'm a passionate and results-driven <b>AI & Data Science</b> undergraduate with a strong foundation in architecting and developing robust full-stack applications. My expertise spans both <b>Java Spring Boot</b> and the <b>MERN stack</b>, allowing me to build scalable and efficient solutions.
+      </p>
+      <p>
+        I am deeply fascinated by the intersection of software engineering and artificial intelligence, constantly seeking to build intelligent systems that solve real-world challenges.
+      </p>
+      <br>
+      <blockquote>
+        <p>
+          🎓 Pursuing B.Tech in Artificial Intelligence & Data Science.<br>
+          💡 Building secure, scalable backend APIs and dynamic, responsive frontends.<br>
+          🧠 Actively exploring NLP, Generative AI, and cloud deployment strategies.<br>
+          🚀 Committed to continuous growth through hackathons and open-source contributions.
+        </p>
+      </blockquote>
+    </td>
+    <td width="35%" valign="top" align="center">
+      <!-- You can replace this GIF with any other you like! -->
+      <img src="https://media.giphy.com/media/zhYSq3vCsVw4s2S2sI/giphy.gif" width="100%" alt="Coding Animation"/>
+    </td>
+  </tr>
+</table>
 <!-- Section Divider -->
 <img src="https://media.giphy.com/media/kH1DBkPNy2YLLyl4OE/giphy.gif" width="40px"> My Tech Arsenal
 <table width="100%">
