@@ -2,20 +2,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/cover.gif" alt="Velchuri Mahesh - Animated Banner" />
 </p>
-
 <div align="center">
   <!-- Profile Views & Followers -->
   <img src="https://komarev.com/ghpvc/?username=VelchuriMahesh&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
   <a href="https://github.com/VelchuriMahesh?tab=followers"><img src="https://img.shields.io/github/followers/VelchuriMahesh?label=Followers&style=for-the-badge&color=1DB954&logo=github"></a>
 </div>
-
 <!-- Spotify Now Playing Card -->
 <div align="center">
   <a href="https://github.com/novatorem/novatorem" title="Spotify Now Playing" target="_blank">
     <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=663399" alt="Spotify Now Playing" width="350" />
   </a>
 </div>
-
 <div align="center">
   <h1>
     Hey, I'm Velchuri Mahesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -28,7 +25,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Integrating+AI+%26+ML+Solutions;Solving+Complex+Problems;Java+Spring+Boot+%7C+MERN+Stack" alt="Typing SVG" />
   </a>
 </div>
-
 <!-- Socials Section -->
 <p align="center">
   <a href="mailto:velchurimahesh77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -36,35 +32,31 @@
   <a href="https://github.com/VelchuriMahesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://velchurimahesh.github.io/Mahesh-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
-
 <!-- Header Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line.svg" width="100%">
-
-### <img src="https://media.giphy.com/media/u2pmWW9R6CdA88DnkP/giphy.gif" width="40px">&nbsp;**About Me**
-
-I'm a passionate and results-driven **AI & Data Science** undergraduate with a strong foundation in architecting and developing robust full-stack applications. My expertise spans both **Java Spring Boot** and the **MERN stack**, allowing me to build scalable and efficient solutions. I am deeply fascinated by the intersection of software engineering and artificial intelligence, constantly seeking to build intelligent systems that solve real-world challenges.
-
-- 🎓 Pursuing B.Tech in **Artificial Intelligence & Data Science** from SR Gudlavalleru Engineering College (2022–2026).
-- 💡 Building secure, scalable backend APIs and dynamic, responsive frontends.
-- 🧠 Actively exploring **NLP**, **Generative AI**, and cloud deployment strategies.
-- 🚀 Committed to continuous growth through hackathons, internships, and open-source contributions.
-
+<img src="https://giphy.com/embed/u2pmWW9R6CdA88DnkP" width="40px"> About Me
+I'm a passionate and results-driven AI & Data Science undergraduate with a strong foundation in architecting and developing robust full-stack applications. My expertise spans both Java Spring Boot and the MERN stack, allowing me to build scalable and efficient solutions. I am deeply fascinated by the intersection of software engineering and artificial intelligence, constantly seeking to build intelligent systems that solve real-world challenges.
+🎓 Pursuing B.Tech in Artificial Intelligence & Data Science from SR Gudlavalleru Engineering College (2022–2026).
+💡 Building secure, scalable backend APIs and dynamic, responsive frontends.
+🧠 Actively exploring NLP, Generative AI, and cloud deployment strategies.
+🚀 Committed to continuous growth through hackathons, internships, and open-source contributions.
 <!-- Section Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
-
-### <img src="https://media.giphy.com/media/kH1DBkPNy2YLLyl4OE/giphy.gif" width="40px">&nbsp;**My Tech Arsenal**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,flask,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,postman,vscode&perline=8" />
-  </a>
-</p>
-
+<img src="https://media.giphy.com/media/kH1DBkPNy2YLLyl4OE/giphy.gif" width="40px"> My Tech Arsenal
+<table width="100%">
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" height="50" /><br>Java</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="50" /><br>Python</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="50" /><br>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="50" /><br>React</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" height="50" /><br>Node.js</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" height="50" /><br>Spring Boot</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" height="50" /><br>MySQL</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" height="50" /><br>MongoDB</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" height="50" /><br>Git & GitHub</td>
+  </tr>
+</table>
 <!-- Section Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
-
-### <img src="https://media.giphy.com/media/IdJU6Uo6gmdP6hQ5K8/giphy.gif" width="40px">&nbsp;**My GitHub Stats & Activity**
-
+<img src="https://media.giphy.com/media/IdJU6Uo6gmdP6hQ5K8/giphy.gif" width="40px"> My GitHub Stats & Activity
 <div align="center">
   <table>
     <tr>
@@ -75,23 +67,17 @@ I'm a passionate and results-driven **AI & Data Science** undergraduate with a s
       <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=VelchuriMahesh&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
     </tr>
   </table>
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VelchuriMahesh&theme=tokyo-night&hide_border=true&hide_title=true&line=61dafb&point=ffeb3b&area=true&area_color=181717" alt="GitHub Contribution Graph" />
   <br>
   <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/isometric_contributions.svg" alt="Isometric Contributions" />
 </div>
-
-### ⚡ **Recent Activity**
+⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!-- This content will be automatically updated by a GitHub Action -->
 <!--END_SECTION:activity-->
-
 <!-- Section Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
-
-### <img src="https://media.giphy.com/media/pGetb5hJplb2o65s27/giphy.gif" width="40px">&nbsp;**Spotlight Projects**
-_Here are some projects I'm proud to have built._
-
+<img src="https://media.giphy.com/media/pGetb5hJplb2o65s27/giphy.gif" width="40px"> Spotlight Projects
+Here are some projects I'm proud to have built.
 <table width="100%" cellspacing="0" cellpadding="10">
   <tr>
     <td width="50%" valign="top">
@@ -134,20 +120,14 @@ _Here are some projects I'm proud to have built._
     </td>
   </tr>
 </table>
-
 <!-- Section Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
-
-### 🐍 **GitHub Contribution Snake**
-_Watch my contributions slither!_
+🐍 GitHub Contribution Snake
+Watch my contributions slither!
 <div align="center">
   <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/output/github-contribution-grid-snake.svg" alt="Velchuri Mahesh's Contribution Snake"/>
 </div>
-
 <!-- Section Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
-
-### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40px">&nbsp;**My Journey & Milestones**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40px"> My Journey & Milestones
 <details>
   <summary><strong>💼 Professional Experience & Internships (Click to Expand)</strong></summary><br>
   <ul>
@@ -183,21 +163,15 @@ _Watch my contributions slither!_
     <li>Web Scraping with AI</li>
   </ul>
 </details>
-
 <!-- Section Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
-
-### <img src="https://media.giphy.com/media/YTbAWhAQi12mZ0L7iA/giphy.gif" width="40px">&nbsp;**Education**
-- **B.Tech, Artificial Intelligence & Data Science** | _SR Gudlavalleru Engineering College_ (2022-2026)
-  - _Current CGPA: 7.83_
-- **Intermediate, MPC** | _Sri Chaitanya Junior College_ (2022)
-- **SSC** | _Bhashyam Public School_ (2020)
-
+<img src="https://media.giphy.com/media/YTbAWhAQi12mZ0L7iA/giphy.gif" width="40px"> Education
+B.Tech, Artificial Intelligence & Data Science | SR Gudlavalleru Engineering College (2022-2026)
+Current CGPA: 7.83
+Intermediate, MPC | Sri Chaitanya Junior College (2022)
+SSC | Bhashyam Public School (2020)
 <!-- Section Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
-
-### <img src="https://media.giphy.com/media/sI4jSKNopdQcM0D_qj/giphy.gif" width="40px">&nbsp;**Let's Connect!**
-> "Fueled by curiosity, driven by code. I build tech that solves real-world problems with clarity and impact.”
+<img src="https://media.giphy.com/media/sI4jSKNopdQcM0D_qj/giphy.gif" width="40px"> Let's Connect!
+"Fueled by curiosity, driven by code. I build tech that solves real-world problems with clarity and impact.”
 <p align="center">
   <em>Feel free to reach out for collaborations, opportunities, or just a friendly tech chat!</em>
   <br><br>
@@ -206,7 +180,6 @@ _Watch my contributions slither!_
   <a href="https://github.com/VelchuriMahesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://velchurimahesh.github.io/Mahesh-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
-
 <!-- Footer -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="Footer divider"/>
