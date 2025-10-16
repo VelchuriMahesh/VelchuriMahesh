@@ -1,11 +1,14 @@
+<!-- 
+Banner Image:
+Create a banner (1280x400px is a good size) using a tool like Canva (canva.com) or Figma (figma.com).
+Include your name, title, and maybe some key tech icons. Upload it to a new public repo (e.g., "github-assets") and get the URL.
+Replace the placeholder URL below with your banner's URL.
+-->
+<!-- <p align="center"><img src="YOUR_BANNER_URL_HERE" alt="Velchuri Mahesh Banner"></p> -->
+
 <div align="center">
 
-<!-- You can place a 1280x400px banner image here -->
-<!-- <img src="[YOUR_BANNER_URL_HERE]"> -->
-
-<br>
-
-# Hi there, I'm Velchuri Mahesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="margin-bottom: -5px;">
+# Hi there, I'm Velchuri Mahesh 👋
 
 ### A Full Stack Developer | AI & Data Science Enthusiast | Lifelong Learner
 
@@ -20,252 +23,192 @@
 </div>
 
 <p align="center">
-  <a href="mailto:velchurimahesh77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/velchuri-mahesh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/VelchuriMahesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://velchurimahesh.github.io/Mahesh-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:velchurimahesh77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/velchuri-mahesh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/VelchuriMahesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://velchurimahesh.github.io/Mahesh-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/VelchuriMahesh">
-    <img src="https://github-readme-stats.vercel.app/api?username=VelchuriMahesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Velchuri Mahesh's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=VelchuriMahesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Velchuri Mahesh's GitHub Stats" />
   </a>
   <a href="https://github.com/VelchuriMahesh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelchuriMahesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelchuriMahesh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
-<!-- ABOUT ME SECTION -->
-<table width="90%" align="center" style="max-width: 900px;">
-<tr>
-<td style="background-color: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 25px;">
-  <div align="center">
-    <svg width="600" height="50">
-      <defs>
-        <style>
-          @keyframes glow {
-            0%, 100% { text-shadow: 0 0 5px #00BFFF, 0 0 10px #00BFFF, 0 0 15px #00BFFF; }
-            50% { text-shadow: 0 0 10px #00BFFF, 0 0 20px #00BFFF, 0 0 30px #00BFFF; }
-          }
-          .title-glow { font-family: 'Segoe UI', 'Roboto', sans-serif; font-size: 30px; font-weight: bold; fill: #FFFFFF; animation: glow 3s infinite ease-in-out; }
-        </style>
-      </defs>
-      <text x="50%" y="50%" dy=".3em" text-anchor="middle" class="title-glow">👨‍💻 About Me</text>
-    </svg>
-  </div>
-  <div style="text-align: center; color: #C9D1D9; font-size: 16px; line-height: 1.6;">
-    I'm a passionate and results-driven <b>AI & Data Science</b> undergraduate with a strong foundation in architecting and developing robust full-stack applications. My expertise spans both <b>Java Spring Boot</b> and the <b>MERN stack</b>, allowing me to build scalable and efficient solutions. I am deeply fascinated by the intersection of software engineering and artificial intelligence, constantly seeking to build intelligent systems that solve real-world challenges.
-    <ul style="list-style-type: none; padding: 0; margin-top: 20px; text-align: left;">
-      <li>🎓 Pursuing B.Tech in <b>Artificial Intelligence & Data Science</b> from SR Gudlavalleru Engineering College (2022–2026).</li>
-      <li>💡 Building secure, scalable backend APIs and dynamic, responsive frontends.</li>
-      <li>🧠 Actively exploring <b>NLP</b>, <b>Generative AI</b>, and cloud deployment strategies.</li>
-      <li>🚀 Committed to continuous growth through hackathons, internships, and open-source contributions.</li>
-    </ul>
-  </div>
-</td>
-</tr>
-</table>
-<br>
+---
 
-<!-- TECH STACK SECTION -->
-<table width="90%" align="center" style="max-width: 900px;">
-<tr>
-<td style="background-color: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 25px;">
-  <div align="center">
-    <svg width="600" height="50">
-      <defs>
-        <style>
-          @keyframes slide-in { from { width: 0; } to { width: 400px; } }
-          .title-tech { font-family: 'Fira Code', 'Courier New', monospace; font-size: 30px; font-weight: bold; fill: #FFFFFF; }
-          .underline { stroke: #28a745; stroke-width: 4; animation: slide-in 2s ease-out forwards; }
-        </style>
-      </defs>
-      <text x="50%" y="50%" dy=".3em" text-anchor="middle" class="title-tech">🛠️ My Tech Stack & Tools</text>
-      <line x1="100" y1="45" x2="500" y2="45" class="underline"/>
-    </svg>
-  </div>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,mongodb,spring,nodejs,express,react,flask,thymeleaf,git,github,vscode,postman,netlify,aws,docker,linux&perline=11" />
-    </a>
-  </p>
-</td>
-</tr>
-</table>
-<br>
+### 👨‍💻 About Me
 
-<!-- SPOTLIGHT PROJECTS SECTION -->
-<table width="90%" align="center" style="max-width: 900px;">
-<tr>
-<td style="background-color: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 25px;">
-  <div align="center">
-    <svg width="600" height="60">
-      <defs>
-        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#9400D3;stop-opacity:1" /><stop offset="50%" style="stop-color:#4B0082;stop-opacity:1" /><stop offset="100%" style="stop-color:#8A2BE2;stop-opacity:1" /></linearGradient>
-      </defs>
-      <text x="50%" y="50%" dy=".3em" text-anchor="middle" style="font-family: 'Arial Black', sans-serif; font-size: 30px; font-weight: 900; fill: url(#grad1);">🚀 Spotlight Projects</text>
-    </svg>
-  </div>
-  <table width="100%" style="border-spacing: 15px;">
-    <!-- Row 1 -->
-    <tr>
-      <td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 10px; padding: 20px; text-align: left; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(0, 191, 255, 0.3)';" onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
-        <h3 style="color: #58A6FF; margin-top: 0;">🔹 AI PowerPoint Generator</h3>
-        <p style="color: #C9D1D9;">A Flask web app using <b>GPT-3.5</b> to automatically create AI-driven presentations. <a href="[YOUR GITHUB REPO LINK HERE]" style="color: #00BFFF;">View on GitHub &rarr;</a></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 10px; padding: 20px; text-align: left; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(40, 167, 69, 0.3)';" onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
-        <h3 style="color: #3FB950; margin-top: 0;">🔹 Bank Management System</h3>
-        <p style="color: #C9D1D9;">A secure banking system using <b>Spring Boot & Security</b> with role-based access. <a href="[YOUR GITHUB REPO LINK HERE]" style="color: #3FB950;">View on GitHub &rarr;</a></p>
-        <p>
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-    <!-- Row 2 -->
-    <tr>
-      <td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 10px; padding: 20px; text-align: left; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(97, 218, 251, 0.3)';" onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
-        <h3 style="color: #61DAFB; margin-top: 0;">🔹 ShopEZ – MERN E-commerce</h3>
-        <p style="color: #C9D1D9;">A full-stack e-commerce app with the <b>MERN stack</b> supporting products, cart, and reviews. <a href="[YOUR GITHUB REPO LINK HERE]" style="color: #61DAFB;">View on GitHub &rarr;</a></p>
-        <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 10px; padding: 20px; text-align: left; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(247, 147, 30, 0.3)';" onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
-        <h3 style="color: #F7931E; margin-top: 0;">🔹 Prayer Recommendation Engine</h3>
-        <p style="color: #C9D1D9;">A Flask web app using <b>NLP</b> to analyze user emotions and recommend inspirational verses. <a href="[YOUR GITHUB REPO LINK HERE]" style="color: #F7931E;">View on GitHub &rarr;</a></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge"/>
-        </p>
-      </td>
-    </tr>
-    <!-- Row 3 (Centered) -->
-    <tr>
-      <td colspan="2" align="center">
-        <div style="width: 50%; display: inline-block;">
-          <div style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 10px; padding: 20px; text-align: left; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(227, 79, 38, 0.3)';" onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
-            <h3 style="color: #E34F26; margin-top: 0;">🔹 Personal Blog</h3>
-            <p style="color: #C9D1D9;">A full-stack, responsive personal blog using <b>Flask and SQL</b> with full CRUD functionality. <a href="[YOUR GITHUB REPO LINK HERE]" style="color: #E34F26;">View on GitHub &rarr;</a></p>
-            <p>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-            </p>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</td>
-</tr>
-</table>
-<br>
+I'm a passionate and results-driven **AI & Data Science** undergraduate with a strong foundation in architecting and developing robust full-stack applications. My expertise spans both **Java Spring Boot** and the **MERN stack**, allowing me to build scalable and efficient solutions. I am deeply fascinated by the intersection of software engineering and artificial intelligence, constantly seeking to build intelligent systems that solve real-world challenges.
 
-<!-- PROFESSIONAL EXPERIENCE SECTION -->
-<table width="90%" align="center" style="max-width: 900px;">
-<tr>
-<td style="background-color: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 25px;">
-  <div align="center">
-    <svg width="600" height="60">
-      <defs>
-        <style>
-          @keyframes flicker { 0%, 18%, 22%, 25%, 53%, 57%, 100% { text-shadow: 0 0 4px #fff, 0 0 11px #fff, 0 0 19px #fff, 0 0 40px #0fa, 0 0 80px #0fa, 0 0 90px #0fa, 0 0 100px #0fa, 0 0 150px #0fa; } 20%, 24%, 55% { text-shadow: none; } }
-          .title-flicker { font-family: 'Orbitron', sans-serif; font-size: 30px; fill: #FFFFFF; animation: flicker 2.5s infinite alternate; }
-        </style>
-      </defs>
-      <text x="50%" y="50%" dy=".3em" text-anchor="middle" class="title-flicker">💼 Professional Experience</text>
-    </svg>
-  </div>
-  <div style="border-left: 4px solid #3FB950; padding-left: 20px;">
-    <h4 style="color: #FFFFFF; margin: 0 0 10px 0;">Full Stack Developer (MERN) Intern | <i>SmartBridge & APSCHE</i></h4>
-    <p style="color: #C9D1D9; margin: 0;">➤ Engineered and deployed 2 full-stack MERN web applications, delivering key features to over <b>200+ daily active users</b>.</p>
-    <hr style="border: 1px solid #30363D; margin: 15px 0;">
-    <h4 style="color: #FFFFFF; margin: 0 0 10px 0;">Web Development Intern | <i>AdverK Technologies</i></h4>
-    <p style="color: #C9D1D9; margin: 0;">➤ Implemented and integrated 2 dynamic frontend modules using REST APIs and Git, enhancing feature stability and user experience.</p>
-    <hr style="border: 1px solid #30363D; margin: 15px 0;">
-    <h4 style="color: #FFFFFF; margin: 0 0 10px 0;">Data Science Trainee | <i>AdverK Technologies</i></h4>
-    <p style="color: #C9D1D9; margin: 0;">➤ Designed and trained 2 machine learning models using Python libraries, achieving over <b>80% accuracy</b> on validation data.</p>
-  </div>
-</td>
-</tr>
-</table>
-<br>
+- 🎓 Pursuing B.Tech in **Artificial Intelligence & Data Science** from SR Gudlavalleru Engineering College (2022–2026).
+- 💡 Building secure, scalable backend APIs and dynamic, responsive frontends.
+- 🧠 Actively exploring **NLP**, **Generative AI**, and cloud deployment strategies.
+- 🚀 Committed to continuous growth through hackathons, internships, and open-source contributions.
 
-<!-- AWARDS & RECOGNITION SECTION -->
-<table width="90%" align="center" style="max-width: 900px;">
-<tr>
-<td style="background-color: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 25px;">
-  <div align="center">
-    <svg width="600" height="60">
-      <defs>
-        <style>
-          @keyframes shimmer { 0% { background-position: -500px 0; } 100% { background-position: 500px 0; } }
-          .title-shimmer { font-family: 'Georgia', serif; font-size: 30px; font-weight: bold; fill: #FFD700; background: linear-gradient(to right, #FFD700 20%, #FFFFFF 50%, #FFD700 80%); background-size: 1000px 100%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: shimmer 3s infinite linear; }
-        </style>
-      </defs>
-      <text x="50%" y="50%" dy=".3em" text-anchor="middle" class="title-shimmer">🏆 Awards & Recognition</text>
-    </svg>
-  </div>
-  <div style="text-align: center; color: #C9D1D9; line-height: 2;">
-    <span style="font-size: 18px;">🥇</span> <b>1st Place Winner</b> | Web Scraping to AI Workshop at SRGEC<br>
-    <span style="font-size: 18px;">🥈</span> <b>2nd Place Winner</b> | IT Branch Hackathon for developing <a href="https://chitti-zeta.vercel.app/" style="color: #61DAFB;">Chitti</a><br>
-    <span style="font-size: 18px;">🥉</span> <b>3rd Place Winner</b> | Pixel Play (PARICHAI 2024)<br>
-    <span style="font-size: 18px;">🚀</span> <b>Team Lead</b> | Led development of SRGEC Chatbot & Chitti Smart Assistant<br>
-    <span style="font-size: 18px;">❤️</span> <b>Volunteer</b> | Assisted with registration of <b>500+ donors</b> at Blood Donation Camp
-  </div>
-</td>
-</tr>
-</table>
-<br>
+---
 
-<!-- EDUCATION & CERTIFICATIONS SECTION -->
-<table width="90%" align="center" style="max-width: 900px;">
-<tr>
-<td style="background-color: #161B22; border: 1px solid #30363D; border-radius: 10px; padding: 25px;">
-  <div align="center">
-    <svg width="600" height="60">
-      <defs>
-        <style>
-          @keyframes fade-slide-up { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
-          .title-fade { font-family: 'Verdana', sans-serif; font-size: 30px; fill: #FFFFFF; animation: fade-slide-up 2s ease-out; }
-        </style>
-      </defs>
-      <text x="50%" y="50%" dy=".3em" text-anchor="middle" class="title-fade">🎓 Education & Certifications</text>
-    </svg>
-  </div>
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top" style="padding-right: 15px;">
-        <h4 style="color: #58A6FF; margin-top: 0; border-bottom: 2px solid #30363D; padding-bottom: 5px;">Education</h4>
-        <p style="color: #C9D1D9; margin-bottom: 5px;"><b>B.Tech, AI & Data Science</b> | SRGEC</p>
-        <p style="color: #8B949E; margin-top: 0;">2022-2026 | CGPA: 7.83</p>
-      </td>
-      <td width="50%" valign="top" style="padding-left: 15px;">
-        <h4 style="color: #58A6FF; margin-top: 0; border-bottom: 2px solid #30363D; padding-bottom: 5px;">Key Certifications</h4>
-        <p style="color: #C9D1D9; margin: 0; line-height: 1.6;">
-          AWS Cloud on Java Spring Boot • MERN Stack • Generative AI • Data Science • Oracle Databases • TATA Data Analytics
-        </p>
-      </td>
-    </tr>
-  </table>
-</td>
-</tr>
-</table>
-<br>
+### 🛠️ My Tech Stack & Tools
 
-<!-- CONNECT WITH ME -->
-<div align="center">
-  <blockquote>
-    <p style="font-size: 18px; font-style: italic; color: #8B949E; border-left: 4px solid #30363D; padding-left: 20px; max-width: 800px;">
-      “Fueled by curiosity, driven by code. I build tech that solves real-world problems with clarity and impact.”
-    </p>
-  </blockquote>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="180">
+      <strong>Languages</strong><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+      <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+    </td>
+    <td align="center" width="180">
+      <strong>Backend</strong><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+    </td>
+    <td align="center" width="180">
+      <strong>Frontend</strong><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"></a>
+    </td>
+    <td align="center" width="180">
+      <strong>Databases</strong><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    </td>
+    <td align="center" width="180">
+      <strong>DevOps & Tools</strong><br><br>
+      <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/STS4-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Spotlight Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔹 <a href="https://github.com/VelchuriMahesh/AI-PowerPoint-Generator">AI PowerPoint Generator</a></h3>
+      <p>A Flask web app that leverages the GPT-3.5 and Pexels APIs to automatically generate complete, visually rich PowerPoint presentations from a simple text prompt.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+        <img src="https://img.shields.io/badge/Generative_AI-A9A9A9?style=for-the-badge" alt="GenAI"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 <a href="https://github.com/VelchuriMahesh/springboot-bank-management-app">Bank Management System</a></h3>
+      <p>A secure, full-fledged banking system architected with Spring Boot and Spring Security, featuring role-based access, transactions, and history.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/REST_APIs-D14836?style=for-the-badge" alt="REST APIs"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔹 <a href="https://github.com/VelchuriMahesh/client">ShopEZ – MERN E-commerce</a></h3>
+      <p>A modern e-commerce platform built with the MERN stack, supporting over 50+ product listings, cart management, user authentication, and reviews.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 <a href="https://github.com/VelchuriMahesh/prayer-recommendation-engine">Prayer Recommendation Engine</a></h3>
+      <p>An emotion-based prayer recommender using NLP to analyze user feelings and suggest relevant Bible verses. Built with Flask and Scikit-learn.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge" alt="NLP"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 My Journey
+
+<details>
+  <summary><strong>Professional Experience & Internships</strong></summary>
+  <ul>
+    <li><b>Full Stack Developer (MERN) Intern</b> | <i>SmartBridge & APSCHE</i><br>
+        ➤ Engineered and deployed 2 full-stack MERN web applications, delivering key features to over <strong>200+ daily active users</strong> within a 2-month internship.</li>
+    <li><b>Web Development Intern</b> | <i>AdverK Technologies</i><br>
+        ➤ Implemented and integrated 2 dynamic frontend modules using REST APIs and Git, enhancing feature stability and user experience.</li>
+    <li><b>Data Science Trainee</b> | <i>AdverK Technologies</i><br>
+        ➤ Designed and trained 2 machine learning models using Pandas, NumPy, and Scikit-learn, achieving over <strong>80% accuracy</strong> on validation data.</li>
+    <li><b>Generative AI Intern</b> | <i>SmartBridge & APSCHE</i><br>
+        ➤ Built AI-powered content generation tools using prompt engineering, GPT models, and cloud deployment.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🏆 Awards, Hackathons & Leadership</strong></summary>
+  <ul>
+    <li>🥇 <b>1st Place Winner</b> | Web Scraping to AI Workshop at SRGEC (Jan 2025).</li>
+    <li>🥈 <b>2nd Place Winner</b> | IT Branch Hackathon for developing <a href="https://chitti-zeta.vercel.app/">Chitti</a>, an intelligent web companion.</li>
+    <li>🥉 <b>3rd Place Winner</b> | Pixel Play (PARICHAI 2024) for AI-based creative photo editing.</li>
+    <li><strong>Team Lead</strong> | Led the development of the SRGEC Chatbot & Chitti Smart Assistant during the hackathon.</li>
+    <li><strong>Volunteer</strong> | Assisted in the registration and onboarding of <strong>500+ donors</strong> at a college blood donation camp.</li>
+    <li><strong>Tabla Performer</strong> | Received awards for exceptional Tabla performances at college cultural festivals.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>📜 Certifications & Continuous Learning</strong></summary>
+  <ul>
+    <li>AWS Cloud on Java Spring Boot</li>
+    <li>MERN Stack Development</li>
+    <li>Generative AI (SmartBridge & APSCHE)</li>
+    <li>Data Science (AdverK Technologies)</li>
+    <li>Oracle Databases</li>
+    <li>Infosys Certified Java Programmer</li>
+    <li>TATA Data Analytics</li>
+    <li>NPTEL - Introduction to IoT</li>
+    <li>Python (BIST Technologies)</li>
+    <li>Web Scraping with AI</li>
+  </ul>
+details>
+
+---
+
+### 🎓 Education
+
+- **B.Tech, Artificial Intelligence & Data Science** | _SR Gudlavalleru Engineering College_ (2022-2026)
+  - _Current CGPA: 7.83_
+- **Intermediate, MPC** | _Sri Chaitanya Junior College_ (2022)
+- **SSC** | _Bhashyam Public School_ (2020)
+
+---
+
+### 📫 Let's Connect!
+
+> "Fueled by curiosity, driven by code. I build tech that solves real-world problems with clarity and impact.”
 
 <p align="center">
-  <a href="mailto:velchurimahesh77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/velchuri-mahesh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/VelchuriMahesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://velchurimahesh.github.io/Mahesh-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:velchurimahesh77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/velchuri-mahesh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/VelchuriMahesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://velchurimahesh.github.io/Mahesh-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
-<br>
