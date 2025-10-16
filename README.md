@@ -48,10 +48,10 @@ I'm a passionate and results-driven AI & Data Science undergraduate with a stron
     <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="50" /><br>Python</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="50" /><br>JavaScript</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="50" /><br>React</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" height="50" /><br>Node.js</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" height="50" /><br>Spring Boot</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" /><br>Node.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="50" /><br>Spring Boot</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" height="50" /><br>MySQL</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" height="50" /><br>MongoDB</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" /><br>MongoDB</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" height="50" /><br>Git & GitHub</td>
   </tr>
 </table>
