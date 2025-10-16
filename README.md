@@ -91,7 +91,7 @@
   </table>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VelchuriMahesh&theme=tokyo-night&hide_border=true&hide_title=true&line=61dafb&point=ffeb3b&area=true&area_color=181717" alt="GitHub Contribution Graph" />
   <br>
-  <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/isometric_contributions.svg" alt="Isometric Contributions" />
+
 </div>
 ⚡ Recent Activity
 <!--START_SECTION:activity-->
