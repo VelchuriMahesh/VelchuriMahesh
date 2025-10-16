@@ -58,7 +58,7 @@
     </td>
     <td width="35%" valign="top" align="center">
       <!-- You can replace this GIF with any other you like! -->
-      <img src="https://media.giphy.com/media/zhYSq3vCsVw4s2S2sI/giphy.gif" width="100%" alt="Coding Animation"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
     </td>
   </tr>
 </table>
