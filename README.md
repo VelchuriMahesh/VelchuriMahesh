@@ -40,7 +40,7 @@
 <!-- Header Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line.svg" width="100%">
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXgYI8/giphy.gif" width="30px">&nbsp;**About Me**
+### <img src="https://media.giphy.com/media/u2pmWW9R6CdA88DnkP/giphy.gif" width="40px">&nbsp;**About Me**
 
 I'm a passionate and results-driven **AI & Data Science** undergraduate with a strong foundation in architecting and developing robust full-stack applications. My expertise spans both **Java Spring Boot** and the **MERN stack**, allowing me to build scalable and efficient solutions. I am deeply fascinated by the intersection of software engineering and artificial intelligence, constantly seeking to build intelligent systems that solve real-world challenges.
 
@@ -52,7 +52,7 @@ I'm a passionate and results-driven **AI & Data Science** undergraduate with a s
 <!-- Section Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
-### 🛠️ **My Tech Arsenal**
+### <img src="https://media.giphy.com/media/kH1DBkPNy2YLLyl4OE/giphy.gif" width="40px">&nbsp;**My Tech Arsenal**
 
 <table width="100%">
   <tr>
@@ -71,7 +71,7 @@ I'm a passionate and results-driven **AI & Data Science** undergraduate with a s
 <!-- Section Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
-### 📊 **My GitHub Stats & Activity**
+### <img src="https://media.giphy.com/media/IdJU6Uo6gmdP6hQ5K8/giphy.gif" width="40px">&nbsp;**My GitHub Stats & Activity**
 
 <div align="center">
   <table>
@@ -84,11 +84,8 @@ I'm a passionate and results-driven **AI & Data Science** undergraduate with a s
     </tr>
   </table>
   
-  <!-- NEW: Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VelchuriMahesh&theme=tokyo-night&hide_border=true&hide_title=true&line=61dafb&point=ffeb3b&area=true&area_color=181717" alt="GitHub Contribution Graph" />
-  
   <br>
-
   <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/isometric_contributions.svg" alt="Isometric Contributions" />
 </div>
 
@@ -100,7 +97,7 @@ I'm a passionate and results-driven **AI & Data Science** undergraduate with a s
 <!-- Section Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
-### 🚀 **Spotlight Projects**
+### <img src="https://media.giphy.com/media/pGetb5hJplb2o65s27/giphy.gif" width="40px">&nbsp;**Spotlight Projects**
 _Here are some projects I'm proud to have built._
 
 <table width="100%" cellspacing="0" cellpadding="10">
@@ -111,13 +108,11 @@ _Here are some projects I'm proud to have built._
       <p><a href="https://github.com/VelchuriMahesh/AI-PowerPoint-Generator" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
     </td>
     <td width="50%" valign="top">
-      <!-- Create a GIF (approx. 600x300px) showcasing this project and upload it to your 'assets' folder -->
       <a href="https://github.com/VelchuriMahesh/AI-PowerPoint-Generator"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-ppt-generator.gif" alt="AI PowerPoint Generator Demo"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <!-- Create a GIF showcasing this project -->
       <a href="https://github.com/VelchuriMahesh/springboot-bank-management-app"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-bank-system.gif" alt="Bank Management System Demo"></a>
     </td>
     <td width="50%" valign="top">
@@ -133,13 +128,11 @@ _Here are some projects I'm proud to have built._
       <p><a href="https://github.com/VelchuriMahesh/client" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
     </td>
     <td width="50%" valign="top">
-      <!-- Create a GIF showcasing this project -->
       <a href="https://github.com/VelchuriMahesh/client"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-shopez.gif" alt="ShopEZ Demo"></a>
     </td>
   </tr>
     <tr>
     <td width="50%" valign="top">
-      <!-- Create a GIF showcasing this project -->
       <a href="https://github.com/VelchuriMahesh/prayer-recommendation-engine"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-prayer-engine.gif" alt="Prayer Recommendation Engine Demo"></a>
     </td>
     <td width="50%" valign="top">
@@ -162,7 +155,7 @@ _Watch my contributions slither!_
 <!-- Section Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
-### 🚀 **My Journey & Milestones**
+### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40px">&nbsp;**My Journey & Milestones**
 <details>
   <summary><strong>💼 Professional Experience & Internships (Click to Expand)</strong></summary><br>
   <ul>
@@ -202,7 +195,7 @@ _Watch my contributions slither!_
 <!-- Section Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
-### 🎓 **Education**
+### <img src="https://media.giphy.com/media/YTbAWhAQi12mZ0L7iA/giphy.gif" width="40px">&nbsp;**Education**
 - **B.Tech, Artificial Intelligence & Data Science** | _SR Gudlavalleru Engineering College_ (2022-2026)
   - _Current CGPA: 7.83_
 - **Intermediate, MPC** | _Sri Chaitanya Junior College_ (2022)
@@ -211,7 +204,7 @@ _Watch my contributions slither!_
 <!-- Section Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
-### 📫 **Let's Connect!**
+### <img src="https://media.giphy.com/media/sI4jSKNopdQcM0D_qj/giphy.gif" width="40px">&nbsp;**Let's Connect!**
 > "Fueled by curiosity, driven by code. I build tech that solves real-world problems with clarity and impact.”
 <p align="center">
   <em>Feel free to reach out for collaborations, opportunities, or just a friendly tech chat!</em>
