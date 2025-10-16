@@ -1,30 +1,20 @@
-<!-- 
-Banner: A cool, animated banner to grab attention.
-Create a GIF (1280x400px) and upload it to a public repo.
-I've used one I created for you as a placeholder.
--->
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/cover.gif" alt="Velchuri Mahesh - Animated Banner" />
 </p>
 
 <div align="center">
-  <!-- Profile Views Counter -->
+  <!-- Profile Views & Followers -->
   <img src="https://komarev.com/ghpvc/?username=VelchuriMahesh&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <!-- GitHub Followers -->
   <a href="https://github.com/VelchuriMahesh?tab=followers"><img src="https://img.shields.io/github/followers/VelchuriMahesh?label=Followers&style=for-the-badge&color=1DB954&logo=github"></a>
 </div>
 
-<!-- 
-Spotify "Now Playing" Card
-This is a fantastic real-time feature.
-Setup: https://github.com/novatorem/novatorem/discussions/224
--->
+<!-- Spotify Now Playing Card -->
 <div align="center">
   <a href="https://github.com/novatorem/novatorem" title="Spotify Now Playing" target="_blank">
     <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=663399" alt="Spotify Now Playing" width="350" />
   </a>
 </div>
-
 
 <div align="center">
   <h1>
@@ -33,6 +23,7 @@ Setup: https://github.com/novatorem/novatorem/discussions/224
   <p>
     <strong>A Full Stack Developer | AI & Data Science Enthusiast | Lifelong Learner</strong>
   </p>
+  <!-- Typing SVG -->
   <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Integrating+AI+%26+ML+Solutions;Solving+Complex+Problems;Java+Spring+Boot+%7C+MERN+Stack">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Integrating+AI+%26+ML+Solutions;Solving+Complex+Problems;Java+Spring+Boot+%7C+MERN+Stack" alt="Typing SVG" />
   </a>
@@ -65,42 +56,15 @@ I'm a passionate and results-driven **AI & Data Science** undergraduate with a s
 
 <table width="100%">
   <tr>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" height="50" />
-      <br>Java
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="50" />
-      <br>Python
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="50" />
-      <br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="50" />
-      <br>React
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" height="50" />
-      <br>Node.js
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" height="50" />
-      <br>Spring Boot
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" height="50" />
-      <br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" height="50" />
-      <br>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" height="50" />
-      <br>Git & GitHub
-    </td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" height="50" /><br>Java</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="50" /><br>Python</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="50" /><br>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="50" /><br>React</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" height="50" /><br>Node.js</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" height="50" /><br>Spring Boot</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" height="50" /><br>MySQL</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" height="50" /><br>MongoDB</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" height="50" /><br>Git & GitHub</td>
   </tr>
 </table>
 
@@ -110,38 +74,21 @@ I'm a passionate and results-driven **AI & Data Science** undergraduate with a s
 ### 📊 **My GitHub Stats & Activity**
 
 <div align="center">
-  <!-- GitHub Stats & Languages -->
   <table>
     <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=VelchuriMahesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Velchuri Mahesh's GitHub Stats" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelchuriMahesh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
+      <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=VelchuriMahesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /></td>
+      <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelchuriMahesh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <!-- GitHub Streak -->
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=VelchuriMahesh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
+      <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=VelchuriMahesh&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
     </tr>
   </table>
-  <!-- Isometric Contributions -->
   <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/isometric_contributions.svg" alt="Isometric Contributions" />
 </div>
 
-<!-- 
-Recent GitHub Activity
-This section uses a GitHub Action to automatically update your recent activity.
-Setup Instructions:
-1. Create a workflow file: `.github/workflows/update-readme.yml`
-2. Paste the content from here: https://github.com/jamesgeorge007/github-activity-readme#setup
-3. The action will run automatically and update this section.
--->
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-<!-- The content below will be automatically updated by a GitHub Action -->
+<!-- This content will be automatically updated by a GitHub Action -->
 <!--END_SECTION:activity-->
 
 <!-- Section Divider -->
@@ -151,33 +98,48 @@ Setup Instructions:
 _Here are some projects I'm proud to have built._
 
 <table width="100%" cellspacing="0" cellpadding="10">
-  <!-- Project 1: AI PowerPoint Generator -->
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI PowerPoint Generator</h3>
-      <p>A Flask web app that leverages the GPT-3.5 and Pexels APIs to automatically generate complete, visually rich PowerPoint presentations from a simple text prompt.</p>
-      <p>
-        <a href="https://github.com/VelchuriMahesh/AI-PowerPoint-Generator" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-        <!-- <a href="YOUR_LIVE_DEMO_URL" title="Live Demo"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"></a> -->
-      </p>
+      <p>A Flask web app using GPT-3.5 and Pexels APIs to auto-generate visually rich PowerPoint presentations from a text prompt.</p>
+      <p><a href="https://github.com/VelchuriMahesh/AI-PowerPoint-Generator" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
     </td>
     <td width="50%" valign="top">
-      <!-- Create a GIF (600x300px) showcasing your project and upload it -->
+      <!-- Create a GIF (approx. 600x300px) showcasing this project and upload it to your 'assets' folder -->
       <a href="https://github.com/VelchuriMahesh/AI-PowerPoint-Generator"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-ppt-generator.gif" alt="AI PowerPoint Generator Demo"></a>
     </td>
   </tr>
-  
-  <!-- Project 2: Bank Management System -->
   <tr>
     <td width="50%" valign="top">
+      <!-- Create a GIF showcasing this project -->
       <a href="https://github.com/VelchuriMahesh/springboot-bank-management-app"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-bank-system.gif" alt="Bank Management System Demo"></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏦 Bank Management System</h3>
       <p>A secure, full-fledged banking system architected with Spring Boot and Spring Security, featuring role-based access, transactions, and history management.</p>
-      <p>
-        <a href="https://github.com/VelchuriMahesh/springboot-bank-management-app" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-      </p>
+      <p><a href="https://github.com/VelchuriMahesh/springboot-bank-management-app" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 ShopEZ – MERN E-commerce</h3>
+      <p>A modern e-commerce platform built with the MERN stack, supporting over 50+ product listings, cart management, user authentication, and reviews.</p>
+      <p><a href="https://github.com/VelchuriMahesh/client" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Create a GIF showcasing this project -->
+      <a href="https://github.com/VelchuriMahesh/client"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-shopez.gif" alt="ShopEZ Demo"></a>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <!-- Create a GIF showcasing this project -->
+      <a href="https://github.com/VelchuriMahesh/prayer-recommendation-engine"><img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/main/assets/project-prayer-engine.gif" alt="Prayer Recommendation Engine Demo"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🙏 Prayer Recommendation Engine</h3>
+      <p>An emotion-based prayer recommender using NLP to analyze user feelings and suggest relevant Bible verses. Built with Flask and Scikit-learn.</p>
+      <p><a href="https://github.com/VelchuriMahesh/prayer-recommendation-engine" title="Source Code"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
     </td>
   </tr>
 </table>
@@ -188,45 +150,39 @@ _Here are some projects I'm proud to have built._
 ### 🐍 **GitHub Contribution Snake**
 _Watch my contributions slither!_
 <div align="center">
-  <img src="https://github.com/VelchuriMahesh/VelchuriMahesh/blob/output/github-contribution-grid-snake.svg" alt="Velchuri Mahesh's Contribution Snake"/>
+  <!-- 
+  CORRECTED LINK: This now points to the RAW SVG file generated by the GitHub Action.
+  The action creates a branch named 'output' where the snake animation is stored.
+  -->
+  <img src="https://raw.githubusercontent.com/VelchuriMahesh/VelchuriMahesh/output/github-contribution-grid-snake.svg" alt="Velchuri Mahesh's Contribution Snake"/>
 </div>
 
 <!-- Section Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
 ### 🚀 **My Journey & Milestones**
-
 <details>
-  <summary><strong>💼 Professional Experience & Internships (Click to Expand)</strong></summary>
-  <br>
+  <summary><strong>💼 Professional Experience & Internships (Click to Expand)</strong></summary><br>
   <ul>
-    <li><b>Full Stack Developer (MERN) Intern</b> | <i>SmartBridge & APSCHE</i><br>
-        ➤ Engineered and deployed 2 full-stack MERN web applications, delivering key features to over <strong>200+ daily active users</strong> within a 2-month internship.</li>
-    <li><b>Web Development Intern</b> | <i>AdverK Technologies</i><br>
-        ➤ Implemented and integrated 2 dynamic frontend modules using REST APIs and Git, enhancing feature stability and user experience.</li>
-    <li><b>Data Science Trainee</b> | <i>AdverK Technologies</i><br>
-        ➤ Designed and trained 2 machine learning models using Pandas, NumPy, and Scikit-learn, achieving over <strong>80% accuracy</strong> on validation data.</li>
-    <li><b>Generative AI Intern</b> | <i>SmartBridge & APSCHE</i><br>
-        ➤ Built AI-powered content generation tools using prompt engineering, GPT models, and cloud deployment.</li>
+    <li><b>Full Stack Developer (MERN) Intern</b> | <i>SmartBridge & APSCHE</i><br>➤ Engineered and deployed 2 full-stack MERN web applications, delivering features to over <strong>200+ daily active users</strong>.</li>
+    <li><b>Web Development Intern</b> | <i>AdverK Technologies</i><br>➤ Implemented 2 dynamic frontend modules using REST APIs and Git, enhancing feature stability.</li>
+    <li><b>Data Science Trainee</b> | <i>AdverK Technologies</i><br>➤ Designed and trained 2 machine learning models with Pandas, NumPy, & Scikit-learn, achieving over <strong>80% accuracy</strong>.</li>
+    <li><b>Generative AI Intern</b> | <i>SmartBridge & APSCHE</i><br>➤ Built AI content generation tools using prompt engineering, GPT models, and cloud deployment.</li>
   </ul>
 </details>
-
 <details>
-  <summary><strong>🏆 Awards, Hackathons & Leadership (Click to Expand)</strong></summary>
-  <br>
+  <summary><strong>🏆 Awards, Hackathons & Leadership (Click to Expand)</strong></summary><br>
   <ul>
     <li>🥇 <b>1st Place Winner</b> | Web Scraping to AI Workshop at SRGEC (Jan 2025).</li>
     <li>🥈 <b>2nd Place Winner</b> | IT Branch Hackathon for developing <a href="https://chitti-zeta.vercel.app/">Chitti</a>, an intelligent web companion.</li>
     <li>🥉 <b>3rd Place Winner</b> | Pixel Play (PARICHAI 2024) for AI-based creative photo editing.</li>
-    <li><strong>Team Lead</strong> | Led the development of the SRGEC Chatbot & Chitti Smart Assistant during the hackathon.</li>
-    <li><strong>Volunteer</strong> | Assisted in the registration and onboarding of <strong>500+ donors</strong> at a college blood donation camp.</li>
-    <li><strong>Tabla Performer</strong> | Received awards for exceptional Tabla performances at college cultural festivals.</li>
+    <li><strong>Team Lead</strong> | Led development of the SRGEC Chatbot & Chitti Smart Assistant.</li>
+    <li><strong>Volunteer</strong> | Assisted in onboarding <strong>500+ donors</strong> at a college blood donation camp.</li>
+    <li><strong>Tabla Performer</strong> | Received awards for exceptional Tabla performances at college festivals.</li>
   </ul>
 </details>
-
 <details>
-  <summary><strong>📜 Certifications & Continuous Learning (Click to Expand)</strong></summary>
-  <br>
+  <summary><strong>📜 Certifications & Continuous Learning (Click to Expand)</strong></summary><br>
   <ul>
     <li>AWS Cloud on Java Spring Boot</li>
     <li>MERN Stack Development</li>
@@ -244,10 +200,17 @@ _Watch my contributions slither!_
 <!-- Section Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
 
+### 🎓 **Education**
+- **B.Tech, Artificial Intelligence & Data Science** | _SR Gudlavalleru Engineering College_ (2022-2026)
+  - _Current CGPA: 7.83_
+- **Intermediate, MPC** | _Sri Chaitanya Junior College_ (2022)
+- **SSC** | _Bhashyam Public School_ (2020)
+
+<!-- Section Divider -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header-line-2.svg" width="100%">
+
 ### 📫 **Let's Connect!**
-
 > "Fueled by curiosity, driven by code. I build tech that solves real-world problems with clarity and impact.”
-
 <p align="center">
   <em>Feel free to reach out for collaborations, opportunities, or just a friendly tech chat!</em>
   <br><br>
